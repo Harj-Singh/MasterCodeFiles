@@ -1,0 +1,4 @@
+
+#Hello world
+creating a raw code file for testing purpose. 
+This is the second file in the second directory in a single repository (MasterCodeFiles).
